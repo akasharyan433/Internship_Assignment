@@ -10,3 +10,5 @@ Steps to Run the backend ->
     psycopg2-binary==2.9.9
     sqlparse==0.5.0
     tzdata==2024.1
+
+Go to backend folder and run python manage.py runserver
